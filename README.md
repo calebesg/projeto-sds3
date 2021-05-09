@@ -33,7 +33,7 @@
 ## 🏷️ Sobre
 
 O DsVendas é um projeto fruto do evento apresentado pela DevSuperior dos dias 3 a 9 de maio. O projetinho consiste na criação de um Dashboard para visualizar as vendas realizadas, fazendo uma relação com os vendedores responsáveis por cada venda,
-além de fazer calculos para medir a taxa de sucesso para as vendas de cada vendedor e o montante total.
+além de fazer calculos para medir a taxa de sucesso para as vendas de cada vendedor e o montante das vendas.
 
 ## 💻 Tecnologias
 
@@ -49,7 +49,7 @@ além de fazer calculos para medir a taxa de sucesso para as vendas de cada vend
 
 ### ☁️ Iniciando o servidor
 
-1. Abra sua IDE favorita e import o projeto: ``backend``
+1. Abra sua IDE favorita e importe o projeto: ``backend``
 2. Execute o projeto
 
 ### 💻 Iniciando o frontend web
